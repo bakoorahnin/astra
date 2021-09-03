@@ -102,7 +102,7 @@ if ( ! class_exists( 'Astra_Customizer_Register_Sections_Panels' ) ) {
 								array(
 									'text'  => __( 'Site Identity Overview', 'astra' ) . ' &#187;',
 									'attrs' => array(
-										'href' => astra_get_pro_url( 'https://wpastra.com/docs/site-identity-free/', 'customizer', 'site-identity', 'helpful-information' ),
+										'href' => astra_get_pro_url( 'https://wpastra.com/docs/site-identity-free/', 'customizer', 'helpful_information', 'astra_theme' ),
 									),
 								),
 							),
@@ -129,7 +129,7 @@ if ( ! class_exists( 'Astra_Customizer_Register_Sections_Panels' ) ) {
 								array(
 									'text'  => __( 'Primary Header Overview', 'astra' ) . ' &#187;',
 									'attrs' => array(
-										'href' => astra_get_pro_url( 'https://wpastra.com/docs/header-overview/', 'customizer', 'primary-header', 'helpful-information' ),
+										'href' => astra_get_pro_url( 'https://wpastra.com/docs/header-overview/', 'customizer', 'helpful_information', 'astra_theme' ),
 									),
 								),
 							),
@@ -185,7 +185,7 @@ if ( ! class_exists( 'Astra_Customizer_Register_Sections_Panels' ) ) {
 								array(
 									'text'  => __( 'Footer Bar Overview', 'astra' ) . ' &#187;',
 									'attrs' => array(
-										'href' => astra_get_pro_url( 'https://wpastra.com/docs/footer-bar/', 'customizer', 'footer-bar', 'helpful-information' ),
+										'href' => astra_get_pro_url( 'https://wpastra.com/docs/footer-bar/', 'customizer', 'helpful_information', 'astra_theme' ),
 									),
 								),
 							),
