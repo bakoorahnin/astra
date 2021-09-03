@@ -15,7 +15,7 @@ describe( 'Global Typography settings in the customizer', () => {
 			'body-font-weight': '800',
 			'body-text-transform': '',
 			'font-size-body': {
-				desktop: 21,
+				desktop: '21',
 				tablet: '20',
 				mobile: '18',
 				'desktop-unit': 'px',

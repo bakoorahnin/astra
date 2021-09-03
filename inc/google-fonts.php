@@ -138,7 +138,7 @@ return array(
 	array(
 		'Alegreya Sans' => array(
 			'variants' => array( '100', '100italic', '300', '300italic', 'regular', 'italic', '500', '500italic', '700', '700italic', '800', '800italic', '900', '900italic' ), 
-			'category' => 'sans-serif', 
+			'category' => 'sans-serif',
 		),
 	),
 	array(
@@ -202,6 +202,12 @@ return array(
 		),
 	),
 	array(
+		'Allison' => array(
+			'variants' => array( 'regular' ), 
+			'category' => 'handwriting', 
+		),
+	),
+	array(
 		'Allura' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'handwriting', 
@@ -229,6 +235,12 @@ return array(
 		'Almendra SC' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'serif', 
+		),
+	),
+	array(
+		'Alumni Sans' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ), 
+			'category' => 'sans-serif', 
 		),
 	),
 	array(
@@ -568,6 +580,12 @@ return array(
 		),
 	),
 	array(
+		'Azeret Mono' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ), 
+			'category' => 'monospace', 
+		),
+	),
+	array(
 		'B612' => array(
 			'variants' => array( 'regular', 'italic', '700', '700italic' ), 
 			'category' => 'sans-serif', 
@@ -684,7 +702,7 @@ return array(
 	array(
 		'Barlow' => array(
 			'variants' => array( '100', '100italic', '200', '200italic', '300', '300italic', 'regular', 'italic', '500', '500italic', '600', '600italic', '700', '700italic', '800', '800italic', '900', '900italic' ), 
-			'category' => 'sans-serif',
+			'category' => 'sans-serif', 
 		),
 	),
 	array(
@@ -805,6 +823,12 @@ return array(
 		'Berkshire Swash' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'handwriting', 
+		),
+	),
+	array(
+		'Besley' => array(
+			'variants' => array( 'regular', '500', '600', '700', '800', '900', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ), 
+			'category' => 'serif', 
 		),
 	),
 	array(
@@ -2350,6 +2374,12 @@ return array(
 		),
 	),
 	array(
+		'Glory' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
 		'Goblin One' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'display', 
@@ -2584,6 +2614,12 @@ return array(
 		),
 	),
 	array(
+		'Hina Mincho' => array(
+			'variants' => array( 'regular' ), 
+			'category' => 'serif', 
+		),
+	),
+	array(
 		'Hind' => array(
 			'variants' => array( '300', 'regular', '500', '600', '700' ), 
 			'category' => 'sans-serif', 
@@ -2644,8 +2680,44 @@ return array(
 		),
 	),
 	array(
+		'IBM Plex Sans Arabic' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
 		'IBM Plex Sans Condensed' => array(
 			'variants' => array( '100', '100italic', '200', '200italic', '300', '300italic', 'regular', 'italic', '500', '500italic', '600', '600italic', '700', '700italic' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
+		'IBM Plex Sans Devanagari' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
+		'IBM Plex Sans Hebrew' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
+		'IBM Plex Sans KR' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
+		'IBM Plex Sans Thai' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
+			'category' => 'sans-serif', 
+		),
+	),
+	array(
+		'IBM Plex Sans Thai Looped' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700' ), 
 			'category' => 'sans-serif', 
 		),
 	),
@@ -2962,6 +3034,30 @@ return array(
 		),
 	),
 	array(
+		'Kaisei Decol' => array(
+			'variants' => array( 'regular', '500', '700' ), 
+			'category' => 'serif', 
+		),
+	),
+	array(
+		'Kaisei HarunoUmi' => array(
+			'variants' => array( 'regular', '500', '700' ), 
+			'category' => 'serif', 
+		),
+	),
+	array(
+		'Kaisei Opti' => array(
+			'variants' => array( 'regular', '500', '700' ), 
+			'category' => 'serif', 
+		),
+	),
+	array(
+		'Kaisei Tokumin' => array(
+			'variants' => array( 'regular', '500', '700', '800' ), 
+			'category' => 'serif', 
+		),
+	),
+	array(
 		'Kalam' => array(
 			'variants' => array( '300', 'regular', '700' ), 
 			'category' => 'handwriting', 
@@ -3088,6 +3184,12 @@ return array(
 		),
 	),
 	array(
+		'Klee One' => array(
+			'variants' => array( 'regular', '600' ), 
+			'category' => 'handwriting', 
+		),
+	),
+	array(
 		'Knewave' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'display', 
@@ -3185,7 +3287,7 @@ return array(
 	),
 	array(
 		'Kumbh Sans' => array(
-			'variants' => array( '300', 'regular', '700' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
@@ -3287,49 +3389,49 @@ return array(
 	),
 	array(
 		'Lexend' => array(
-			'variants' => array( '100', '300', 'regular', '500', '600', '700', '800' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Deca' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Exa' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Giga' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Mega' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Peta' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Tera' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
 	array(
 		'Lexend Zetta' => array(
-			'variants' => array( 'regular' ), 
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900' ), 
 			'category' => 'sans-serif', 
 		),
 	),
@@ -4972,6 +5074,12 @@ return array(
 		),
 	),
 	array(
+		'Rampart One' => array(
+			'variants' => array( 'regular' ), 
+			'category' => 'display', 
+		),
+	),
+	array(
 		'Ranchers' => array(
 			'variants' => array( 'regular' ), 
 			'category' => 'display', 
@@ -6181,6 +6289,12 @@ return array(
 		'Unna' => array(
 			'variants' => array( 'regular', 'italic', '700', '700italic' ), 
 			'category' => 'serif', 
+		),
+	),
+	array(
+		'Urbanist' => array(
+			'variants' => array( '100', '200', '300', 'regular', '500', '600', '700', '800', '900', '100italic', '200italic', '300italic', 'italic', '500italic', '600italic', '700italic', '800italic', '900italic' ), 
+			'category' => 'sans-serif', 
 		),
 	),
 	array(

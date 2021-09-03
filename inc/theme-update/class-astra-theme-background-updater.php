@@ -109,6 +109,7 @@ if ( ! class_exists( 'Astra_Theme_Background_Updater' ) ) {
 			'3.6.9' => array(
 				'astra_zero_font_size_comp',
 				'astra_unset_builder_elements_underline',
+				'astra_remove_responsive_account_menu_colors_support',
 			),
 		);
 

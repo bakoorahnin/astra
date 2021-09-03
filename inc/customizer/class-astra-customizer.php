@@ -149,7 +149,7 @@ if ( ! class_exists( 'Astra_Customizer' ) ) {
 		 * @param WP_Customize_Manager $wp_customize Theme Customizer object.
 		 * @return void
 		 *
-		 * @since x.x.x
+		 * @since 3.6.9
 		 */
 		public function customize_register_site_icon( $wp_customize ) {
 

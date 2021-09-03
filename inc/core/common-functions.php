@@ -1528,7 +1528,7 @@ function is_current_post_comment_enabled() {
 /**
  * Dont apply zero size to existing user.
  *
- * @since x.x.x
+ * @since 3.6.9
  * @return boolean false if it is an existing user , true if not.
  */
 function astra_zero_font_size_case() {
