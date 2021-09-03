@@ -728,3 +728,7 @@ h6 {
   margin-right: 20px;
   margin-left: 20px;
 }
+
+.components-popover .components-popover__content {
+  min-width: 290px;
+}
