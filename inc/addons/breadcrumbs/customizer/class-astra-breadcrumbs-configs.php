@@ -74,7 +74,7 @@ if ( ! class_exists( 'Astra_Breadcrumbs_Configs' ) ) {
 								array(
 									'text'  => __( 'Breadcrumb Overview', 'astra' ) . ' &#187;',
 									'attrs' => array(
-										'href' => astra_get_pro_url( 'https://wpastra.com/docs/add-breadcrumbs-with-astra/', 'customizer', 'sidebar', 'helpful-information' ),
+										'href' => astra_get_pro_url( 'https://wpastra.com/docs/add-breadcrumbs-with-astra/', 'customizer', 'helpful_information', 'astra_theme' ),
 									),
 								),
 							),
