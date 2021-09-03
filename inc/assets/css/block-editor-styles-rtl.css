@@ -732,3 +732,7 @@ h6 {
 .components-popover .components-popover__content {
   min-width: 290px;
 }
+
+.wp-block-latest-comments .wp-block-latest-comments {
+  margin-right: 0;
+}
